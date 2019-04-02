@@ -2,4 +2,4 @@
 
 	echo "Hello Git!";
 	echo "Hello Git2!";
-	adsadwafsa
+	echo "branch master";
